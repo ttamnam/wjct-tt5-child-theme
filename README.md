@@ -14,15 +14,23 @@ This repository contains a custom child theme built from the default WordPress T
 
 ## Installation
 1. Copy the theme folder into:
-   wp-content/themes/
+   `wp-content/themes/`
 2. Activate the theme in:
-   Appearance → Themes
+   `Appearance → Themes`
 
 ## Testing
 After activation:
 - Verify the background color changes
 - Verify custom fonts are applied
 - Verify footer text appears at the bottom of the site
+
+## AI-Assisted Workflow
+ChatGPT was used during development to assist with:
+- WordPress child theme implementation patterns
+- troubleshooting local development environment setup
+- reviewing WordPress best practices and code organization
+
+All code was manually reviewed, tested locally in WordPress, and adjusted as needed to ensure functionality and clarity.
 
 ## Improvements With More Time
 - Add enqueue optimization for fonts
