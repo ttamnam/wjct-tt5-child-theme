@@ -78,6 +78,7 @@ All code was manually reviewed, implemented, and tested locally in WordPress.
 
 ## Improvements With More Time
 
+- Refactor footer customization to integrate directly with Twenty Twenty-Five block theme template parts instead of using the global `wp_footer` hook
 - Add Customizer controls for theme options
 - Improve accessibility styling and contrast testing
 - Add asset minification/build tooling
